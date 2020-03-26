@@ -1,0 +1,50 @@
+* {
+    box-sizing: border-box; 
+    font-size: 0px;
+}
+
+#top{
+    border: 15px solid white;
+    background-color: #F5C6D6;
+    width: 1700px;
+    height: 200px; 
+    margin: 10px;
+}
+
+.PinkBox{
+    border: 15px solid white;
+    background-color: #EE2E84;
+    width: 412px;
+    height: 200px;
+    display: inline-block;
+    margin: 10px;
+}
+
+.BlueBox{
+    border: 15px solid white;
+    background-color: #85CFD8;
+    width: 840px;
+    height: 200px;
+    display: inline-block;
+    margin: 10px;
+
+}
+
+#GreenBox{
+    border: 15px solid white;
+    background-color: #8DC63F;
+    width: 1280px;
+    height: 200px;
+    display: inline-block;
+    margin: 10px;
+}
+
+#Brown{
+    border: 15px solid white;
+    background-color: #E76E34;
+    width: 412px;
+    height: 200px;
+    display: inline-block;
+    margin: 10px;
+
+}
