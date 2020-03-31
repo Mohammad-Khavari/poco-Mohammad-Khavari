@@ -1,0 +1,28 @@
+
+h1{
+    font-size: 100px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+p{
+    display: inline-block;
+    width: 45%;
+    margin-left: 20px;
+    font-size: 25px;
+   
+}
+
+h2{
+    margin-left: 20px;
+    font-size: 40px;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+div{
+    border: 3px solid black;
+
+}
+#first{
+    margin-bottom: 30px;
+}
