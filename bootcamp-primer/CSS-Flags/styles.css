@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(59, 38, 248);
+}
+
+a{
+    position: relative;
+    top: 200px;
+    margin: 10px;
+}
